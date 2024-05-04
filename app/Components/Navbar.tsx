@@ -2,8 +2,7 @@ import React from 'react'
 import Link from './Link'
 import clsx from 'clsx'
 import { motion } from 'framer-motion'
-import { menuSlide, menuSlideTemp } from './animation'
-import Curve from './Curve'
+import {  menuSlideTemp } from './animation'
 
 function Navbar() {
   const navItems = [
